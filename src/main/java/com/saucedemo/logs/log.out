@@ -1,0 +1,44 @@
+2023-05-13 21:05:993 INFO  LoginPage :42 - Enter username standard_user to User Name field standard_user
+2023-05-13 21:05:75 INFO  LoginPage :46 - Enter username secret_sauce to Password field secret_sauce
+2023-05-13 21:05:125 INFO  LoginPage :51 - Clicking on Login Button 
+2023-05-13 21:05:210 INFO  LoginPage :57 - Get Text From Product Title
+2023-05-13 21:05:849 INFO  LoginPage :42 - Enter username standard_user to User Name field standard_user
+2023-05-13 21:05:27 INFO  LoginPage :46 - Enter username secret_sauce to Password field secret_sauce
+2023-05-13 21:05:149 INFO  LoginPage :51 - Clicking on Login Button 
+2023-05-13 21:05:306 INFO  LoginPage :57 - Get Text From Product Title
+2023-05-13 21:05:599 INFO  LoginPage :42 - Enter username standard_user to User Name field standard_user
+2023-05-13 21:05:714 INFO  LoginPage :46 - Enter username secret_sauce to Password field secret_sauce
+2023-05-13 21:05:782 INFO  LoginPage :51 - Clicking on Login Button 
+2023-05-13 21:05:876 INFO  LoginPage :63 - Count Total no of products
+2023-05-13 21:05:318 INFO  LoginPage :42 - Enter username standard_user to User Name field standard_user
+2023-05-13 21:05:489 INFO  LoginPage :46 - Enter username secret_sauce to Password field secret_sauce
+2023-05-13 21:05:581 INFO  LoginPage :51 - Clicking on Login Button 
+2023-05-13 21:05:750 INFO  LoginPage :57 - Get Text From Product Title
+2023-05-13 21:05:488 INFO  LoginPage :42 - Enter username standard_user to User Name field standard_user
+2023-05-13 21:05:624 INFO  LoginPage :46 - Enter username secret_sauce to Password field secret_sauce
+2023-05-13 21:05:707 INFO  LoginPage :51 - Clicking on Login Button 
+2023-05-13 21:05:839 INFO  LoginPage :63 - Count Total no of products
+2023-05-14 10:05:734 INFO  LoginPage :45 - Enter username standard_user to User Name field standard_user
+2023-05-14 10:05:906 INFO  LoginPage :49 - Enter username secret_sauce to Password field secret_sauce
+2023-05-14 10:05:19 INFO  LoginPage :54 - Clicking on Login Button 
+2023-05-14 10:05:186 INFO  LoginPage :60 - Get Text From Product Title
+2023-05-14 10:05:842 INFO  LoginPage :45 - Enter username standard_user to User Name field standard_user
+2023-05-14 10:05:986 INFO  LoginPage :49 - Enter username secret_sauce to Password field secret_sauce
+2023-05-14 10:05:114 INFO  LoginPage :54 - Clicking on Login Button 
+2023-05-14 10:05:280 INFO  LoginPage :67 - Count Total no of products
+2023-05-14 10:05:633 INFO  LoginPage :45 - Enter username standard_user to User Name field standard_user
+2023-05-14 10:05:788 INFO  LoginPage :49 - Enter username secret_sauce to Password field secret_sauce
+2023-05-14 10:05:906 INFO  LoginPage :54 - Clicking on Login Button 
+2023-05-14 10:05:80 INFO  LoginPage :60 - Get Text From Product Title
+2023-05-14 10:05:616 INFO  LoginPage :45 - Enter username standard_user to User Name field standard_user
+2023-05-14 10:05:767 INFO  LoginPage :49 - Enter username secret_sauce to Password field secret_sauce
+2023-05-14 10:05:854 INFO  LoginPage :54 - Clicking on Login Button 
+2023-05-14 10:05:997 INFO  LoginPage :67 - Count Total no of products
+2023-05-15 15:05:740 INFO  LoginPage :45 - Enter username standard_user to User Name field standard_user
+2023-05-15 15:05:815 INFO  LoginPage :49 - Enter username secret_sauce to Password field secret_sauce
+2023-05-15 15:05:864 INFO  LoginPage :54 - Clicking on Login Button 
+2023-05-15 15:05:950 INFO  LoginPage :60 - Get Text From Product Title
+2023-05-15 15:05:61 INFO  LoginPage :45 - Enter username standard_user to User Name field standard_user
+2023-05-15 15:05:122 INFO  LoginPage :49 - Enter username secret_sauce to Password field secret_sauce
+2023-05-15 15:05:175 INFO  LoginPage :54 - Clicking on Login Button 
+2023-05-15 15:05:256 INFO  LoginPage :67 - Count Total no of products
